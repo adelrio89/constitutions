@@ -1,0 +1,1 @@
+Constitutions files were downloaded from the website https://www.constituteproject.org/ as RTF and then converted to .TXT for analysis
